@@ -1,13 +1,13 @@
 {
-  "name": "vue-scroller",
+  "name": "custom-scroller",
   "version": "2.2.4",
   "description": "Vue component for smooth scrolling, pull to refresh & infinite loading.",
   "main": "dist/vue-scroller.min.js",
   "author": "wangdahoo <157195705@qq.com>",
-  "homepage": "https://github.com/wangdahoo/vue-scroller",
+  "homepage": "https://github.com/staryang8835/custom-scroll",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wangdahoo/vue-scroller.git"
+    "url": "git+https://github.com/staryang8835/custom-scroll.git"
   },
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --host=0.0.0.0 --port=8080",
@@ -39,5 +39,12 @@
     "vue-template-compiler": "^2.2.6",
     "webpack": "^2.4.1",
     "webpack-dev-server": "^2.4.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/staryang8835/custom-scroll/issues"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "license": "ISC"
 }
